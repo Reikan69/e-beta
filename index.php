@@ -1,4 +1,9 @@
+<?php 
+$koneksi=mysqli_connect("localhost","root","","test");
+$data_saham = mysqli_query($koneksi,"SELECT * FROM tbl_beta");
 
+
+?>
 <html lang="en">
 	<head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -730,14 +735,6 @@
 												<tbody>
 												
 												<?php
-
-
-
-												$koneksi=mysqli_connect("localhost","hmm","willykeren","test");
-
-												$data_saham = mysqli_query($koneksi,"SELECT * FROM tbl_beta");
-
-
 
 												while($row  = mysqli_fetch_assoc($data_saham)){?>
 														<tr>

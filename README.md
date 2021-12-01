@@ -14,5 +14,10 @@ Fitur yang tersedia:
 
 - sorting data
 
-## I`m not developer of this theme.
-It`s only copy of <a href="http://wrapbootstrap.com/preview/WB0B30DGR">ace demo-template</a> from wrapbootstrap.
+
+## Cara Memakai website ini
+- Buat folder di local/live server anda
+- Buat database sesuai koneksinya (untuk melihat konesi bisa di index.php)
+- ganti nama host username password server
+- upload table dari tbl_beta.sql
+- Done
