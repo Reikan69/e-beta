@@ -8,9 +8,11 @@ Website ini saya gunakan pribadi di lokal hanya untuk mempermudah dalam membaca 
 
 Fitur yang tersedia:
 
--boostrap table yang userable
--pencarian data
--sorting data
+- boostrap table yang userable
+
+- pencarian data
+
+- sorting data
 
 ## I`m not developer of this theme.
 It`s only copy of <a href="http://wrapbootstrap.com/preview/WB0B30DGR">ace demo-template</a> from wrapbootstrap.
