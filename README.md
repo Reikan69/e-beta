@@ -4,7 +4,7 @@
 
 Website ini saya gunakan pribadi di lokal hanya untuk mempermudah dalam membaca beta saham-saham di indonesia.
 
-## Data ini uptoo date saya ambil dari  <a href="https://pefindo.com/pageman/page/beta-saham.html">Pefindo.
+## Data ini saya ambil dari  <a href="https://pefindo.com/pageman/page/beta-saham.html">Pefindo</a>.
 
 Fitur yang tersedia:
 
